@@ -5,6 +5,7 @@
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 	    <meta name="mobile-web-app-capable" content="yes">
 	    <meta name="theme-color" content="#7FFFD4">
+	    <link rel="icon" sizes="192x192" href="css/favicon.png">
 		<link rel="stylesheet" type="text/css" href="css/ovvermaster.css">
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 	    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
